@@ -3,6 +3,9 @@
     src: url(fonts/Comic_Sans_MS_Bold.ttf)
 }
 body{ 
+    background: url(images/wallpaper.jpg) ;
+    background-attachment: fixed;
+    background-size: 100%;
     background-color: rgb(255, 251, 0);
     font-family: Comic Sans MS Bold;
 }
@@ -23,8 +26,12 @@ body{
 }
 .Awhite{
     color: mintcream;
+    text-decoration: none;
 }
 .kontent{
     font-size: 120%;
-    text-align: justify;    
+    text-align: justify;  
+    padding-left: 6%;  
+    padding-right: 6%;
+    text-shadow: aqua;
 }
