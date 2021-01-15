@@ -1,0 +1,30 @@
+@font-face{
+    font-family: Comic Sans MS Bold;
+    src: url(fonts/Comic_Sans_MS_Bold.ttf)
+}
+body{ 
+    background-color: rgb(255, 251, 0);
+    font-family: Comic Sans MS Bold;
+}
+.logo{
+    text-align: center;
+}
+.menu{
+    text-align: center;
+    background-color: darkblue;
+    font-size: 120%;
+    font-weight: 900;
+}
+.h2{
+    text-align: center;
+    color: indigo;
+    font-size: 200%;
+    font-weight: 900;
+}
+.Awhite{
+    color: mintcream;
+}
+.kontent{
+    font-size: 120%;
+    text-align: justify;    
+}
